@@ -1,0 +1,7 @@
+{
+    "name": "Radium App",
+    "description": "Node.js Radium instance",
+    "repository": "https://github.com/poop",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-QXQLPwp1K9ImmKRz1STXNzeCUYknDW7ZeHgDLUGKFT7SSI9jSTWqh8Ff5aXa0TD0Ms&usqp=CAU",
+    "keywords": ["tomp", "radium"]
+}
